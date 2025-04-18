@@ -5,7 +5,7 @@ import ContactMeMain from './components/contactMeSection/ContactMeMain'
 import ExperienceMain from './components/experienceSection/ExperienceMain'
 import FooterMain from './components/footer/FooterMain'
 import HeroMain from './components/heroSection/HeroMain'
-import NavbarMain from './components/navbar/NavbarMain'
+import NavbarMain from './components/Navbar/NavbarMain'
 import ProjectsMain from './components/projectsSection/ProjectsMain'
 import SkillsMain from './components/skillsSection/SkillsMain'
 
